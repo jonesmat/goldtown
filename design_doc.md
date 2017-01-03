@@ -1,4 +1,8 @@
 
+Experience Goals
+------
+- Death should come quickly, but fairly.  
+- 
 
 Prototype - Phase 1
 -------
