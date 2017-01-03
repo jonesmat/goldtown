@@ -1,5 +1,4 @@
-from character import Character
-
+from characters.character import Character
 
 class Human(Character):
     def __init__(self):
